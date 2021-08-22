@@ -9,11 +9,13 @@
     Hiển thị giá trị biến bossName với hàm alert
     // Đọc kỹ mô tả bên trái màn hình
     // Viết code của bạn tại đây
+          ```
           let bossName = 'uen';
           let bossAge = 18;
           let senName = 'thng811';
           let senAge = 19;
           alert(bossName);
+          ```
     1.2:
     Tạo biến currentCourse và gán cho giá trị là 'Javascript cơ bản'
     Tạo biến newCourse và sao chép giá trị của biến currentCourse
@@ -34,9 +36,10 @@
     Sử dụng // comment dòng code bossSound = 'Cạp cạp';
     Sử dụng /* */ comment từ dòng myBossAge = 4; tới dòng myBossAge = 8;
     // Làm bài tập tại đây
+          ```javascript
           var bossSound = 'Meozzz';
           var bossAge = 2;
-          //bossSound = 'Cạp cạp';
+          //bossSound = 'Cạp cạp';```
 
           /*bossAge = 4;
           bossSound = 'Gâu Gâu'
